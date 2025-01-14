@@ -1,0 +1,7 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = gdrive://1wsWQKU8d0Nhr9BF3Qu6IRCGTJI-C-uBR
+    gdrive_acknowledge_abuse = true
+    gdrive_use_service_account = true
+    gdrive_service_account_json_file_path = doc2ru-fb23273cf77b.json
