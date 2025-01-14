@@ -88,11 +88,11 @@ Project for DE course
 
     python pipeline.py preprocess
 
--   **Тестирование**:
+-   **Анализ с помощью llm**:
 
      ```bash
 
-    python pipeline.py test
+    python pipeline.py llm_annotate
 
 -   **Создание базы данных**:
 
